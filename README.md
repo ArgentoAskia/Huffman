@@ -1,3 +1,3 @@
 # Huffman
-Huffman Algorithm
+Huffman Algorithm moduel<br>
 Compress for Huffman
